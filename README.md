@@ -49,6 +49,10 @@ After that, you can connect to the server using your preferred IRC client.
 
 Remember that the bot itself can be used in any other similar server, given the right PORT and PASSWORD.
 
+## Authors
+
+This project was develop in collaboration with [SichuanVilly](https://github.com/SichuanVilly)
+
 ## License
 
 MIT
