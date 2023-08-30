@@ -51,7 +51,7 @@ Remember that the bot itself can be used in any other similar server, given the 
 
 ## Authors
 
-This project was develop in collaboration with [SichuanVilly](https://github.com/SichuanVilly)
+This project was developed in collaboration with [SichuanVilly](https://github.com/SichuanVilly)
 
 ## License
 
